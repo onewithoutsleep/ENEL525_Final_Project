@@ -1,0 +1,41 @@
+symbol,type,description
+SPY,ETF,S&P 500
+QQQ,ETF,Nasdaq 100
+DIA,ETF,Dow Jones industrials
+IWM,ETF,US small companies
+VTI,ETF,Total US stock market
+EFA,ETF,Developed markets outside North America
+EEM,ETF,Emerging markets
+TLT,ETF,Long-term US Treasury bonds
+IEF,ETF,Intermediate US Treasury bonds
+LQD,ETF,Investment-grade corporate bonds
+HYG,ETF,High-yield corporate bonds
+GLD,ETF,Gold
+SLV,ETF,Silver
+XLK,ETF,Technology sector
+XLF,ETF,Financial sector
+XLE,ETF,Energy sector
+XLV,ETF,Health care sector
+XLI,ETF,Industrial sector
+XLP,ETF,Consumer staples sector
+XLU,ETF,Utilities sector
+AAPL,Stock,Apple
+MSFT,Stock,Microsoft
+NVDA,Stock,NVIDIA
+AMZN,Stock,Amazon
+GOOGL,Stock,Alphabet
+META,Stock,Meta Platforms
+TSLA,Stock,Tesla
+AVGO,Stock,Broadcom
+JPM,Stock,JPMorgan Chase
+BAC,Stock,Bank of America
+V,Stock,Visa
+MA,Stock,Mastercard
+XOM,Stock,Exxon Mobil
+CVX,Stock,Chevron
+WMT,Stock,Walmart
+COST,Stock,Costco
+JNJ,Stock,Johnson & Johnson
+UNH,Stock,UnitedHealth Group
+HD,Stock,Home Depot
+CAT,Stock,Caterpillar
