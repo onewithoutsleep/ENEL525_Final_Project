@@ -218,3 +218,68 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# LaTeX git_ignore
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+*.nav
+*.snm
+*.vrb
+*.xdv
+*.dvi
+*.idx
+*.ind
+*.ilg
+*.ist
+*.glg
+*.glo
+*.gls
+*.acn
+*.acr
+*.alg
+*.loa
+*.lol
+*.thm
+*.xdy
+
+# latexmk
+*.latexmkrc
+
+# Beamer
+*.nav
+*.snm
+*.vrb
+
+# Minted
+_minted/
+_minted-*
+*.pyg
+
+# Editor backups
+*~
+*.bak
+*.swp
+*.tmp
+*.backup
+
+# SyncTeX
+*.synctex(busy)
+*.synctex.gz(busy)
+
+# IEEE template given
+/IEEE-conference-template-062824
